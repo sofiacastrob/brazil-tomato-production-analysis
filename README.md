@@ -1,4 +1,4 @@
-# Brazil Tomato Production Analysis 🍅
+# Brazil Tomato Production Analysis 
 
 ## Project Overview
 
