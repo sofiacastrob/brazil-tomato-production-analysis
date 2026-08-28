@@ -6,6 +6,8 @@ This project analyzes tomato production in Brazil from 2014 to 2023 using public
 
 The goal was to explore production trends, harvested area, regional production, and tomato yield while developing practical data analysis and data visualization skills in Excel.
 
+![Brazil Tomato Production Dashboard](dashboard.png.png)
+
 ## Tools
 
 - Microsoft Excel
